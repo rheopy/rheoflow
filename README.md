@@ -4,7 +4,7 @@ Lbrary for non-Newtonian flow calculators
 
 # Try it in the cloud
 [![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/rheopy/rheoflow/master)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whharttiv/rheoflow/blob/master/notebooks/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rheopy/rheoflow/blob/master/notebooks/index.ipynb)
 
 # Installation
 
