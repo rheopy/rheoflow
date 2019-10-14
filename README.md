@@ -1,9 +1,10 @@
 # rheoflow
 
-Non-Newtonian flow calculators
+Lbrary for non-Newtonian flow calculators
 
-Short term usage
-Be sure laminar.py and friction_factor.py are in current working directory.  laminar.py is for laminar non-Newtonian pipe flow.  friction_factor_property.py is for non-Newtonian turbulent pipe flow.
+# Try it in the cloud
+[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/rheopy/rheoflow/master)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whharttiv/rheoflow/blob/master/notebooks/index.ipynb)
 
 # Installation
 
@@ -76,14 +77,6 @@ Notebook with Herschel-Bulkey viscosity model example for pipe flow friction fac
 
 * von_karmen_pipe_flow_nn.ipynb
 
-
-## Phase I
-
-Get laminar.py and friction_factor_property.py working and in MVP status
-
-## Phase II
-
-Create notebooks for documentation and training
 
 
 

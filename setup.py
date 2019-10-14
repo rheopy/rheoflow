@@ -13,8 +13,8 @@ setup(
     description='',
     long_description=readme,
     author='',
-    author_email='',
-    url='https://github.com/rheopy/rheoflow.git',
+    author_email='whartt@gmail.com',
+    url='https://github.com/rheopy/rheoflow',
     license=license,
     install_requires=[],
     packages=['rheoflow']
