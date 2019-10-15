@@ -8,10 +8,16 @@ Welcome to rheoflow's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
    dodge_metzner
 
+.. toctree::
+   :maxdepth: 3
+   :glob:
+
+   modules
+   
 
 Indices and tables
 ==================
