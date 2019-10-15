@@ -8,34 +8,17 @@ Lbrary for non-Newtonian flow calculators
 
 # Installation
 
-* Currently since the repository is not public download the zip file of this branch and from any folder (e.g. download folder) run:
-
-```
-pip install downloaded_zip_file.zip
-```
-
-* if the repository is set to public within the intranet
-
-* Requires git installed
-
-* to use ssh protocol looks like gitlab.pg.com requires to set:
-
-run from shell
-```
-git config --global http.sslVerify false
-```
-
-* install the library wit pip:
+to install 
 ```
 pip install git+https://github.com/rheopy/rheoflow.git
 ```
 
-* if you change your mind:
+if you change your mind:
 ```
 pip uninstall rheoflow
 ```
 
-* to upgrade (will uninstall current version and install newest from master branch)
+to upgrade (will uninstall current version and install newest from master branch)
 
 ```
 pip install git+https://github.com/rheopy/rheoflow.git --upgrade
@@ -52,7 +35,7 @@ This notebook is a start at documenting models and numerical methods used in fri
 
 Quick notebook for calculations
 
-* friction factor newtonian and powerlaw.ipynb
+* [friction factor newtonian and powerlaw.ipynb](notebooks/friction factor newtonian and powerlaw.ipynb)
 
 
 Notebook showing how to implement Newtonian and power-law viscosity models and calculate turbulent friction factors and such
