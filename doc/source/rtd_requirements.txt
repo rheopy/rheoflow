@@ -1,1 +1,8 @@
+sphinx
+pandas
+lmfit
 nbsphinx
+matplotlib
+seaborn
+lmfit
+numpy
