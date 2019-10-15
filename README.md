@@ -1,4 +1,5 @@
 # rheoflow
+[![Documentation Status](https://readthedocs.org/projects/rheoflow/badge/?version=latest)](https://rheoflow.readthedocs.io/en/latest/?badge=latest)
 
 Lbrary for non-Newtonian flow calculators
 
