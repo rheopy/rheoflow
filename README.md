@@ -35,7 +35,7 @@ This notebook is a start at documenting models and numerical methods used in fri
 
 Quick notebook for calculations
 
-* [friction_factor_newtonian_and_powerlaw.ipynb](rheoflow/notebooks/friction_factor_newtonian_and_powerlaw.ipynb")
+* [friction_factor_newtonian_and_powerlaw.ipynb](./notebooks/friction_factor_newtonian_and_powerlaw.ipynb")
 
 Notebook showing how to implement Newtonian and power-law viscosity models and calculate turbulent friction factors and such
 
