@@ -10,12 +10,12 @@ licence='Apache 2'
 setup(
     name='rheoflow',
     version='0.1.0',
-    description='',
+    description='Python library for non-Newtonian flow calculations',
     long_description=readme,
-    author='',
+    author='William Hartt',
     author_email='whartt@gmail.com',
     url='https://github.com/rheopy/rheoflow',
     license=license,
-    install_requires=[],
+    install_requires=['numpy','matplotlib'],
     packages=['rheoflow']
 )

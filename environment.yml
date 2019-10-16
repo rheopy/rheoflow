@@ -1,0 +1,15 @@
+name: rheology
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - appmode
+  - lmfit
+  - matplotlib
+  - numpy
+  - pandas
+  - pybroom
+  - seaborn
+  - pybroom
+  - jupyter_contrib_nbextensions
+© 2019 GitHub, Inc.
