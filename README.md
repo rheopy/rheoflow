@@ -24,40 +24,6 @@ to upgrade (will uninstall current version and install newest from master branch
 pip install git+https://github.com/rheopy/rheoflow.git --upgrade
 ```
 
-## Notebooks
-
-* friction factor documentation.ipynb
-
-This notebook is a start at documenting models and numerical methods used in friction_factor_property.py.  This will develop into training material.
-
-* friction factor example template.ipynb
-
-
-Quick notebook for calculations
-
-* [friction_factor_newtonian_and_powerlaw.ipynb](notebooks/friction_factor_newtonian_and_powerlaw.ipynb)
-
-Notebook showing how to implement Newtonian and power-law viscosity models and calculate turbulent friction factors and such
-
-* friction factor class demonstration carreau.ipynb
-
-
-Notebook with Carreau viscosity model example for pipe flow friction factors
-
-* friction factor class demonstration herschel_bulkley.ipynb
-
-
-Notebook with Herschel-Bulkey viscosity model example for pipe flow friction factors
-
-* laminar_pipe_demonstration.ipynb
-
-* laminar_pipe_dashboard.ipynb
-
-* laminar_pipe_deomstration_powerlaw.ipynb
-
-* von_karmen_pipe_flow.ipynb
-
-* von_karmen_pipe_flow_nn.ipynb
 
 
 
