@@ -10,7 +10,7 @@ Welcome to rheoflow's documentation!
    :maxdepth: 2
    :glob:
 
-   dodge_metzner
+   Quickstart
 
 .. toctree::
    :maxdepth: 3
