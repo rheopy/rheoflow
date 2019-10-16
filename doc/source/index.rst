@@ -11,6 +11,8 @@ Welcome to rheoflow's documentation!
    :glob:
 
    Quickstart
+   Laminar_pipe_flow_calculations
+   Turbulent_pipe_flow_calculations
 
 .. toctree::
    :maxdepth: 3
