@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rheoflow
+Version: 0.1.0
+Summary: Python library for non-Newtonian flow calculations
+Home-page: https://github.com/rheopy/rheoflow
+Author: William Hartt
+Author-email: whartt@gmail.com
+License: Type license() to see the full license text
+Description: UNKNOWN
+Platform: UNKNOWN

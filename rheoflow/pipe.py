@@ -88,6 +88,7 @@ class laminar:
         plt.plot(x,y)
         plt.xlabel('Radial position')
         plt.ylabel('Shear rate')
+        return [x,y]
         
     def viscosity_wall(self):
         """
