@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 readme=''
-licence='Apache 2'
+licence='Apache2'
 
 setup(
     name='rheoflow',
